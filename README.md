@@ -12,7 +12,16 @@ This notebook contains exercises for the workshop at ML Prague 2025. The goal is
 
 The notebook consists of 4 exercises, starting with a simple prompt and ending in creating a multi-agent system using smolagents.
 
-##### Overview over exercises
+## Requirements
+To run the notebook, the following packages are required
+- openai
+- smolagents 
+- litellm
+
+
+
+
+## Overview over exercises
 
 ## Exercise 1: Simple Prompt
 This exercise will ensure your environment, API keys and accesses are configured correctly. Additionally you will create a simple prompt to use as a reference point when building your agent.
